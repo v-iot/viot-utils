@@ -10,4 +10,4 @@ Windows | Linux | MacOS |
 :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: |
 
 ## SDK使用
-下载[最新版本viot-utils](https://github.com/v-iot/viot-utils/releases)以供其它VIOT SDK使用
+下载[viot-utils](https://github.com/v-iot/viot-utils/releases)以供其它VIOT SDK使用
